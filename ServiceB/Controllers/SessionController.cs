@@ -10,6 +10,7 @@ namespace ServiceB.Controllers
     [ApiController]
     public class SessionController : ControllerBase
     {
+        [HttpPost]
         public async Task<string> Login(UserRequestModel userRequestModel)
         {
             // discover endpoints from metadata
