@@ -5,3 +5,4 @@ start /D "C:\SourceR\GatewayAuthentication" runIdentityServer.bat
 start /D "C:\SourceR\GatewayAuthentication" runServiceA.bat
 start /D "C:\SourceR\GatewayAuthentication" runServiceB.bat
 start /D "C:\SourceR\GatewayAuthentication" runApiGateway.bat
+start /D "C:\SourceR\GatewayAuthentication" startBrower.bat

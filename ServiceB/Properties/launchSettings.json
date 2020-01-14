@@ -21,7 +21,7 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
-      "applicationUrl": "http://localhost:8011",
+      "applicationUrl": "http://*:8011",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

@@ -32,12 +32,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{9A381099-C9D6-4A2A-9413-41F47EDFCF61}"
 	ProjectSection(SolutionItems) = preProject
 		build.bat = build.bat
+		buildAndRun.bat = buildAndRun.bat
 		consulRun.bat = consulRun.bat
 		consul.d\GatewayAuthentication.json = consul.d\GatewayAuthentication.json
 		runApiGateway.bat = runApiGateway.bat
 		runIdentityServer.bat = runIdentityServer.bat
 		runServiceA.bat = runServiceA.bat
 		runServiceB.bat = runServiceB.bat
+		startBrower.bat = startBrower.bat
 	EndProjectSection
 EndProject
 Global

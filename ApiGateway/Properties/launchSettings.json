@@ -18,7 +18,7 @@
     "ApiGateway": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:38039",
+      "applicationUrl": "http://*:38039",
       "environmentVariables": {
         //"ASPNETCORE_ENVIRONMENT": "Development"
       }
