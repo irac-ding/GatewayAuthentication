@@ -1,2 +1,2 @@
-cd C:/SourceR/GatewayAuthentication
+cd /d %~dp0
 dotnet run --project ./IdentityServer --no-build 

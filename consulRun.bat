@@ -1,1 +1,1 @@
-C:/Consul/consul agent -dev -config-dir=C:/SourceR/GatewayAuthentication/consul.d
+C:/Consul/consul agent -dev -config-dir=./consul.d
